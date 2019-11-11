@@ -1,0 +1,6 @@
+URL=http://istio-ingressgateway-istio-system.apps.cluster-forum-2f72.forum-2f72.open.redhat.com/productpage
+while true 
+do 
+  curl $URL &> /dev/null
+  sleep 1
+done 
