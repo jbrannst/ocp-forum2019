@@ -26,3 +26,7 @@ cd bookinfo
 ``` 
 ./3
 ```
+. and optionally the abort scenario
+``` 
+./4
+```
